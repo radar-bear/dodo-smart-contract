@@ -37,7 +37,7 @@
     "dotenv-flow": "^3.1.0",
     "es6-promisify": "^6.1.1",
     "ethereumjs-util": "^7.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mocha": "^7.2.0",
     "truffle-hdwallet-provider": "^1.0.17",
     "ts-node": "^8.10.2",
